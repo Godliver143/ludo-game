@@ -25,7 +25,7 @@ def roll():
     print("Move ", value, "steps\n")
 
     home()
-
+#Alerts player if player has won
 def home():
     global isHome
     if steps > 57:
