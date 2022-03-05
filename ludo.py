@@ -52,3 +52,8 @@ while True:
         print ("Your total number of steps moved is" ,steps)
 
         break
+'''Will need to define the rules of the game for a player.
+   If player rolls a 6 then count should start and then a player can move.
+   If a player rools the dice and gets another 6 then player should be able 
+   to decide whether to move or bring in a new chip. 
+'''
